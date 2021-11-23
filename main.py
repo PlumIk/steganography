@@ -6,8 +6,8 @@ from PIL import Image
 
 from for_img import ForImg
 
-_inImg = 't1.png'
-_outImg = 't2.png'
+_inImg = 'test.png'
+_outImg = 'test_end.png'
 _endWord = "lemon"
 
 
